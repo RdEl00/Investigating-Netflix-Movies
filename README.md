@@ -11,7 +11,7 @@ It looks like there is something to the idea that movie lengths have decreased o
 - Is this explainable by something like the genre of entertainment?
 
 <p align="left">
-  <a href="https://nbviewer.org/github/RdEl00/Investigating-Netflix-Movies/blob/master/notebook.ipynb"><img src=https://img.shields.io/badge/Jupyter-Open%20Notebook-orange?></a>
+  <a href="https://nbviewer.org/github/RdEl00/Investigating-Netflix-Movies/blob/master/Investigating-Netflix-Movies.ipynb"><img src=https://img.shields.io/badge/Jupyter-Open%20Notebook-orange?></a>
 </p>
 
 
